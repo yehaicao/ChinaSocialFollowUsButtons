@@ -1,7 +1,7 @@
 # 国内社交关注按钮（ChinaSocialFollowUsButtons）
 [![](http://www.wordpressleaf.com/logo.png)](http://www.wordpressleaf.com/)
 <br/><br/> 
-<a href="http://www.wordpressleaf.com/2016_24.html"><img align="right" src="http://kurtnoble.com/labs/rrssb/media/rrssb-preview.png" width="248" height="auto"/></a>
+<a href="http://www.wordpressleaf.com/2016_24.html"><img align="right" src="http://www.wordpressleaf.com/logo-app.png" width="248" height="auto"/></a>
 国内社交关注按钮（ChinaSocialFollowUsButtons）是一套灵活组合的社交关注按钮，支持国内外主要的社交网站，采用的是字体图标，你可以在这里看到按钮使用的实例。 [**这里**](http://www.wordpressleaf.com) 
 
 
@@ -146,7 +146,7 @@ Service     | Link
 官网 *      | [**官网**](http://www.wordpressleaf.com/)
 github *    | [**github**](https://github.com/yehaicao/ChinaSocialFollowUsButtons)
 
-<small>* Managed by 3rd parties. Please contact project hosts for support.</small>
+
 
 ## 支持
 国内社交关注按钮（ChinaSocialFollowUsButtons）支持的字体图标font-awesome。
